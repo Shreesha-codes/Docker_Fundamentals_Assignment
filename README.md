@@ -119,4 +119,4 @@ docker stop $(docker ps -q --filter "ancestor=python-app:latest")
 docker stop $(docker ps -q --filter "ancestor=nodejs-app:latest")
 docker stop $(docker ps -q --filter "ancestor=java-app:latest")
 docker stop $(docker ps -q --filter "ancestor=react-app:latest")
-```
+```![alt text](image-5.png)
