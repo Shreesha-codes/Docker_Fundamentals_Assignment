@@ -56,3 +56,4 @@ To stop and remove all containers created by the verification script, run:
 docker stop node-container python-container java-container apache-container react-container nginx-container
 docker rm node-container python-container java-container apache-container react-container nginx-container
 ```
+![alt text](image.png)
